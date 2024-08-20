@@ -1,16 +1,10 @@
 # flappy_bird
 
-A new Flutter project.
+A flappy bird game made using flutter and flame. It follows the tutorial by 
+[Hey Flutter](https://youtu.be/zcs8qRBRz7w) but adds one new feature - tapping
+space bar to fly
 
-## Getting Started
+## Playing the game
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tap on any part of the screen to fly. If you are on a computer you can also
+press spacebar
